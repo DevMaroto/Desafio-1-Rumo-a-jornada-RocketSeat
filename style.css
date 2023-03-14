@@ -5,19 +5,19 @@
 }
 
 body {
-  display: flex:
+  display: flex;
+  margin-top: 200px;
   height: 100vh;
-  background-image: url(./assets/background.svg);
+  justify-content: center;
+  background: url(./assets/background.svg) no-repeat center/cover;
 }
 
 .container {
   display: flex;
   width: 677px;
   height: 242px;
-  top: 200px;
   flex-direction: column;
   justify-content: center;
-  margin: 200px 301.5px auto;
   align-items: center;
 }
 
@@ -83,5 +83,5 @@ a {
 }
 
 .style-button {
-  color: #ffffff
+  color: #ffffff;
 }
