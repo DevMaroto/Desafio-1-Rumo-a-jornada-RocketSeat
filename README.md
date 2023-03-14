@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Landing Page para desenvolver suas habilidades.
 
 - [Acesse o projeto finalizado, online](https://devmaroto.github.io/Desafio-1-Rumo-a-jornada-RocketSeat/)
 
