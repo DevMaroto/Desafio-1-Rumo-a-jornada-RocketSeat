@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page para desenvolver suas habilidades.
 
-- [Acesse o projeto finalizado, online](https://devmaroto.github.io/Desafio-1-Rumo-a-jornada-RocketSeat/)
+- [Acesse o projeto finalizado, online](https://desafio-1-rumo-a-jornada-rocket-seat.vercel.app/)
 
 ## 🔖 Layout
 
