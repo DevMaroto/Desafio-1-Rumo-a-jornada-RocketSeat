@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 - Figma
+- Vercel (Para hospedar o site)
 
 ## 💻 Projeto
 
